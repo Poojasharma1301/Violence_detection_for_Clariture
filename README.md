@@ -6,8 +6,7 @@ The detection of violence is a specific issue within the larger topic of action 
 ## Tech-Used :
 Tensorflow,mamonfight22,Flask<br>
 ## To Run:
-1)Download Model from : <br>
-2)python fight.py
+1)python fight.py
 ## Conclusion : 
 So here by using Violence detection system will warn you and help you respond quickly so you'll be out of danger.
 
